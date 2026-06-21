@@ -8,5 +8,5 @@ This folder contains Java program based on:
 - nested if
   Examples:
  - Fever Check
- - Age Eligibility
+ - Leap year
  - Number Comparison 
