@@ -1,13 +1,34 @@
-# Java DSA Practice
-This repository conyains my Java and DSA learning journey.
-## Topics Covered
+# ☕ Java DSA Practice
+
+Welcome to my Java & Data Structures and Algorithms practice repository.
+
+## 📌 About
+
+This repository contains my Java programming journey, DSA practice, coding exercises, and pattern problems.
+
+## 🚀 Goals
+
+- Learn Java from Basics to Advanced
+- Master Data Structures
+- Solve LeetCode Problems
+- Prepare for Product-Based Companies
+- Become Internship Ready
+
+## 📚 Topics
+
 - Java Basics
-- Conditional Statements
-- Loops
-- Functions and Methods
 - Patterns
 - Arrays
-## Goal
-To strengthen Data Structure & Algorithms,improve problem-solving skills, and prepare for internship and placements.
-## Author
-Ashish Rodale
+- Strings
+- Sorting
+- Recursion
+- Linked List
+- Stack
+- Queue
+- Trees
+- Graphs
+- Dynamic Programming
+
+## 📈 Progress
+
+This repository is updated regularly as I continue learning Java and DSA.
